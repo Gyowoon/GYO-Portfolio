@@ -12,8 +12,6 @@
 ## 기술 스택
 - Shell Script
 - Python
-- Oracle Database 23ai
-- SQLite
+- SQLite & postgreSQL 15
 
-## 관련 문서
-- [상세 가이드](../../docs/database-backup.md)
+
