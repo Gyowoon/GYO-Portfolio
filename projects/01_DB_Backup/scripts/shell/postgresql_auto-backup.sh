@@ -49,7 +49,7 @@ else
     echo "[$(date)] FAIL!!!" >> "$LOG_FILE"
     exit 1
 fi
-#echo "Cuurent Dirrectory is $(pwd)" >> "$LOG_FILE"
+#echo "Cuurent Dirrectory is $(pwd)" >> "$LOG_FILE" # Used For Debugging Purpose 
 # ============================================================
 # 3. Delete Outdated Files
 # ============================================================
